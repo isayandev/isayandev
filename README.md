@@ -1,7 +1,7 @@
 Hi! My name is Sayan Gupta 😄
 ========================================================================================================================================
 
-💻🌍  I am a Front-End Developer based in India, Kolkata.
+💻🌍  I am a Front-End Developer based in Kolkata, India.
 <br/>
 
 ### Skills
