@@ -1,7 +1,12 @@
-Hi! My name is Sayan Gupta 😄
-========================================================================================================================================
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Sayan Gupta 😄
+======================================================================================================================================
 
-💻🌍  I am a Front-End Developer based in Kolkata, India.
+💻 I am a Front-End Developer.
+
+*   🌍  I'm based in Kolkata.
+*   🖥️  See my portfolio at [SayanDev](http://sayandev-portfolio.vercel.app/)
+*   ✉️  You can contact me at [sayangupta.dev@gmail.com](mailto:sayangupta.dev@gmail.com)
+*   🤝  I'm open to collaborating on Front-End Projects.
 <br/>
 
 ### Skills
